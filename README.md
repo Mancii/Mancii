@@ -1,9 +1,19 @@
 <h1 align="center">Hi 👋, I'm Manci Ayman</h1>
 <h3 align="center">Backend Java Developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mancii&label=Profile%20views&color=0e75b6&style=flat" alt="mancii" /> </p>
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mancii" alt="mancii" /></a> </p>
+
+- 🔭 I’m currently working on **Java & Spring apps**
+
+- 🌱 I’m currently learning **Spring Boot and Angular**
+
+- 💬 Ask me about **Java, Hibernate, Spring Framework, Spring Security and Spring Boot**
+
+- 📫 How to reach me **manciayman0@gmail.com**
+
+- 📄 Know about my experiences [https://drive.google.com/file/d/1gTdEuugix21Oe1IbIHsU5BeHtgcpbmLT/view?usp=sharing](https://drive.google.com/file/d/1gTdEuugix21Oe1IbIHsU5BeHtgcpbmLT/view?usp=sharing)
+
+- ⚡ Always **Learn new things**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
