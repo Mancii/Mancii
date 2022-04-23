@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Manci Ayman</h1>
 <h3 align="center">Backend Java Developer</h3>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=manarshahin48&label=Profile%20views&color=0e75b6&style=flat" alt="manarshahin48" />
-		   <img src="https://badges.pufler.dev/repos/manarshahin48" alt="manarshahin48" />
-		   <img src="https://img.shields.io/github/followers/manarshahin48?label=Followers" alt="manarshahin48" />
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=mancii&label=Profile%20views&color=0e75b6&style=flat" alt="mancii" />
+		   <img src="https://badges.pufler.dev/repos/mancii" alt="mancii" />
+		   <img src="https://img.shields.io/github/followers/mancii?label=Followers" alt="mancii" />
 </p>
 
 - :school: I am a `Junior` at Faculty of Computers and AI at Helwan University
