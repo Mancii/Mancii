@@ -102,6 +102,8 @@
 <summary><b>💻 GitHub Profile Stats</b></summary>
 <br/>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mancii&show_icons=true&locale=en&layout=compact" alt="mancii" /></p>
+  &emsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mancii&show_icons=true&locale=en&layout=compact" alt="mancii" />
+  &emsp;
   <img src="https://github-readme-stats.vercel.app/api?username=mancii&show_icons=true&locale=en" alt="mancii" />
 </p>
