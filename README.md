@@ -3,7 +3,6 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=mancii&label=Profile%20views&color=0e75b6&style=flat" alt="mancii" />
 		   <img src="https://badges.pufler.dev/repos/mancii" alt="mancii" />
-		   <img src="https://img.shields.io/github/followers/mancii?label=Followers" alt="mancii" />
 </p>
 
 - :school: I am a `Junior` at Faculty of Computers and AI at Helwan University
@@ -23,8 +22,7 @@
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> Connect with me
 <p align="center">
   <a href="manciayman0@gmail.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
-  <a href="https://linkedin.com/in/manci08" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme generator/master/src/images/icons/Social/linked-in-alt.svg" alt="manci08" height="30" width="40" />
-  </a>
+  <a href="https://www.linkedin.com/in/manci08 /"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="https://www.facebook.com/manci.ayman/"><img src="https://img.shields.io/badge/facebook-%231877F2.svg?style=plastic&logo=facebook&logoColor=white" alt="Facebook"/>
   </a>
 </p>
