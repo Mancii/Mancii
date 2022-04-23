@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **Java, Hibernate, Spring Framework, Spring Security and Spring Boot**
 
-✨ I’m Interested in problem solving, algorithms and data structures.
+- ✨ I’m Interested in problem solving, algorithms and data structures.
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1gTdEuugix21Oe1IbIHsU5BeHtgcpbmLT/view?usp=sharing](https://drive.google.com/file/d/1gTdEuugix21Oe1IbIHsU5BeHtgcpbmLT/view?usp=sharing)
 
