@@ -1,7 +1,12 @@
 <h1 align="center">Hi 👋, I'm Manci Ayman</h1>
 <h3 align="center">Backend Java Developer</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mancii" alt="mancii" /></a> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=manarshahin48&label=Profile%20views&color=0e75b6&style=flat" alt="manarshahin48" />
+		   <img src="https://badges.pufler.dev/repos/manarshahin48" alt="manarshahin48" />
+		   <img src="https://img.shields.io/github/followers/manarshahin48?label=Followers" alt="manarshahin48" />
+</p>
+
+- :school: I am a `Junior` at Faculty of Computers and AI at Helwan University
 
 - 🔭 I’m currently working on **Java & Spring apps**
 
@@ -15,9 +20,13 @@
 
 - ⚡ Always **Learn new things**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/manci08" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="manci08" height="30" width="40" /></a>
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> Connect with me
+<p align="center">
+  <a href="manciayman0@gmail.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
+  <a href="https://linkedin.com/in/manci08" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme generator/master/src/images/icons/Social/linked-in-alt.svg" alt="manci08" height="30" width="40" />
+  </a>
+  <a href="https://www.facebook.com/manci.ayman/"><img src="https://img.shields.io/badge/facebook-%231877F2.svg?style=plastic&logo=facebook&logoColor=white" alt="Facebook"/>
+  </a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
