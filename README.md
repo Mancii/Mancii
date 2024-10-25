@@ -15,7 +15,7 @@
 
 - ✨ I’m Interested in problem solving, algorithms and data structures.
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1gTdEuugix21Oe1IbIHsU5BeHtgcpbmLT/view?usp=sharing](https://drive.google.com/file/d/1gTdEuugix21Oe1IbIHsU5BeHtgcpbmLT/view?usp=sharing)
+- 📄 Know about my experiences: https://drive.google.com/file/d/1Dl84anZF4jPMClP-HFEq1LQPxAVXUEVR/view?usp
 
 - ⚡ Always **Learn new things**
 
