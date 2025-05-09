@@ -1,30 +1,22 @@
 <h1 align="center">Hi 👋, I'm Manci Ayman</h1>
-<h3 align="center">Backend Java Developer</h3>
+<h3 align="center">Backend Engineer</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=mancii&label=Profile%20views&color=0e75b6&style=flat" alt="mancii" />
 		   <img src="https://badges.pufler.dev/repos/mancii" alt="mancii" />
 </p>
 
-- :school: I am a `Junior` at Faculty of Computers and AI at Helwan University
+- I am a skilled Software Engineer specializing in Java backend development with over two years of experience.
+- I excel in building scalable backend systems, developing RESTful APIs, and working with microservices.
+- Proficient in Java, Spring Boot, and database design, I am committed to delivering efficient, maintainable solutions that drive business success.
 
-- 🔭 I’m currently working on **Java & Spring apps**
-
-- 🌱 I’m currently learning **Spring Boot and Angular**
-
-- 💬 Ask me about **Java, Hibernate, Spring Framework, Spring Security and Spring Boot**
-
-- ✨ I’m Interested in problem solving, algorithms and data structures.
-
-- 📄 Know about my experiences: https://drive.google.com/file/d/1Dl84anZF4jPMClP-HFEq1LQPxAVXUEVR/view?usp
+- 📄 Know about my experiences: https://drive.google.com/file/d/18XodpoDUK9VBLzQSdy92hv8DZp0ggXSS/view?usp=sharing
 
 - ⚡ Always **Learn new things**
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> Connect with me
 <p align="center">
   <a href="manciayman0@gmail.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
-  <a href="https://www.linkedin.com/in/manci08 /"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="https://www.facebook.com/manci.ayman/"><img src="https://img.shields.io/badge/facebook-%231877F2.svg?style=plastic&logo=facebook&logoColor=white" alt="Facebook"/>
-  </a>
+  <a href="https://www.linkedin.com/in/manci08/"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 </p>
 
 ## 🔥 Streak Stats
